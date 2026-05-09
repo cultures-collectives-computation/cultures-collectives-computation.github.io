@@ -4,7 +4,7 @@ layout: home
 
 # Cultures, Collectives, and Computation
 
-A reading group exploring the intersections of culture, collective behavior, and computational systems.
+A reading group exploring the intersections of culture, collective behavior, and computational modeling.
 
 ## About
 
@@ -24,12 +24,6 @@ Brief description
 
 ---
 
-### [Another Paper]
-**Author:** Name  
-**Date:** Discussion date  
-Description  
-[Link](#)
-
 ## Past Discussions
 
 - [Previous reading 1](#) - Date
@@ -38,4 +32,3 @@ Description
 ## Resources
 
 - [Full reading list](readings.md)
-- [Discussion notes](notes/)
