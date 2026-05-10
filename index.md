@@ -8,27 +8,21 @@ A reading group exploring the intersections of culture, collective behavior, and
 
 ## About
 
-We meet bi-weekly to discuss papers, books, and ideas at the intersection of cultural studies, collective intelligence, and computational approaches.
-
-**When:** [Your schedule]  
-**Where:** [Location]  
-**Contact:** [Email]
+We meet bi-weekly to discuss papers, books, and ideas at the intersection of cultural, collectives, and computation.
 
 ## Upcoming Readings
 
 ### [Paper Title]
 **Author:** Name  
-**Date:** Discussion date  
+**Date:** May 13 
 Brief description  
 [Link to paper](#)
 
 ---
 
-## Past Discussions
+## Some past examples
 
 - [Previous reading 1](#) - Date
 - [Previous reading 2](#) - Date
 
-## Resources
-
-- [Full reading list](readings.md)
+## Sign up to our mailing list at c3-reading[at]stanford.edu!
