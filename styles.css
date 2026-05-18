@@ -561,15 +561,17 @@ h1, h2, h3, h4 {
 /* ---------- Organizers ---------- */
 .organizer-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 .organizer-card {
   background: white;
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
-  padding: 32px 28px;
+  padding: 40px 32px;
   text-align: center;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -580,17 +582,17 @@ h1, h2, h3, h4 {
 }
 
 .organizer-avatar {
-  width: 96px;
-  height: 96px;
+  width: 128px;
+  height: 128px;
   border-radius: 50%;
   background: linear-gradient(135deg, #eef0f5 0%, #e3e7ee 100%);
   color: var(--color-accent);
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 auto 18px;
+  margin: 0 auto 22px;
   font-family: var(--font-serif);
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 600;
   letter-spacing: 0.02em;
   overflow: hidden;
