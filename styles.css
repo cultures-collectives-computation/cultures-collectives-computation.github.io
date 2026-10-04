@@ -498,6 +498,22 @@ h1, h2, h3, h4 {
   box-shadow: var(--shadow-soft);
 }
 
+.quarter-current {
+  box-shadow: var(--shadow-soft);
+}
+
+.quarter-current .quarter-summary-static {
+  cursor: default;
+}
+
+.quarter-current .quarter-summary-static:hover {
+  background: transparent;
+}
+
+.quarter-current .quarter-summary-static .quarter-heading::before {
+  display: none;
+}
+
 .quarter-summary {
   display: flex;
   align-items: center;
